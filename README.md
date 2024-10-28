@@ -15,7 +15,7 @@ pip install pytubefix moviepy
 ```
 
 ## Criando um Executável
-Se você quiser criar um executável para o seu código, pode usar a biblioteca PyInstaller. Isso permitirá que você distribua seu aplicativo sem precisar que os usuários tenham o Python instalado.
+Se você quiser criar um executável para o seu código, pode usar a biblioteca PyInstaller. Isso permitirá que você utilize seu aplicativo sem precisar rodar o script em um editor de cógido ou terminal.
 
 Instalação do PyInstaller
 Para instalar o PyInstaller, execute o seguinte comando:
