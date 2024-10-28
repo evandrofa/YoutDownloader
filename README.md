@@ -21,7 +21,7 @@ Instalação do PyInstaller
 Para instalar o PyInstaller, execute o seguinte comando:
 
 ```bash
-pip install pytubefix moviepy
+pip install pyinstaller
 ```
 
 ## Criando o Executável
