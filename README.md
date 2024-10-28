@@ -1,6 +1,6 @@
 # YouTube Downloader by Evandro
 
-Um projeto simples em Python para fazer download de vídeos e músicas diretamente do YouTube. Utiliza as bibliotecas `pytubefix` e `moviepy` para facilitar o processo de download e manipulação de arquivos de mídia.
+Um projeto em Python para fazer download de vídeos e músicas diretamente do YouTube. Utiliza as bibliotecas `pytubefix` e `moviepy` para facilitar o processo de download e manipulação de arquivos de mídia.
 
 ## Pré-requisitos
 
