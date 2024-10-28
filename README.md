@@ -28,7 +28,7 @@ pip install pyinstaller
 Para gerar o executável, navegue até o diretório do seu projeto no terminal e execute:
 
 ```bash
-pyinstaller --onefile seu_script.py
+pyinstaller --onefile youtDown.py
 ```
 
 Substitua seu_script.py pelo nome do seu arquivo Python. Após a execução do comando, o executável será criado na pasta dist.
